@@ -1,3 +1,3 @@
 # Timew
-Pip python 3 Library
+python 3 Library
 MIT License
